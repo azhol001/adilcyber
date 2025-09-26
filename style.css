@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d1117;
+  color: #c9d1d9;
+  text-align: center;
+}
+
+header {
+  background: #161b22;
+  padding: 2rem;
+}
+
+h1 {
+  color: #58a6ff;
+}
+
+section {
+  padding: 2rem;
+}
+
+video {
+  margin-top: 1rem;
+  border: 3px solid #58a6ff;
+  border-radius: 12px;
+}
